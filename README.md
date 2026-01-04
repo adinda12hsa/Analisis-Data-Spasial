@@ -17,3 +17,6 @@ Tujuan dari analisis ini adalah:
 1. Membangun visualisasi geospasial yang mendetail dan interaktif untuk mendukung analisis pembangunan regional.
 2. Mengidentifikasi hubungan antara variabel-variabel kunci pembangunan, seperti kesejahteraan (pengeluaran per kapita), kemiskinan (P0), dan indikator pasar tenaga kerja.
 3. Menyediakan insight berbasis data yang dapat mendukung perumusan kebijakan pembangunan yang lebih terarah dan berkeadilan.
+
+## Dashboard Interaktif
+<a href="https://github.com/adinda12hsa/Analisis-Data-Spasial/blob/0a4f7c30f5785a272fce87795f67f8c8fd0d0094/Visualisasi%20Grafik%20Tingkat%20Kemiskinan%20Indonesia.pbix">Dashboard Tingkat Kemiskinan Indonesia<a href="https://github.com/adinda12hsa/Analisis-Data-Spasial/blob/0a4f7c30f5785a272fce87795f67f8c8fd0d0094/Visualisasi%20Grafik%20Tingkat%20Kemiskinan%20Indonesia.pbix">
